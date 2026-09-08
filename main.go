@@ -10,7 +10,7 @@ func main() {
 	plugin.Serve(&plugin.ServeOpts{
 		RuleSet: &tflint.BuiltinRuleSet{
 			Name:    "next",
-			Version: "0.1.0",
+			Version: "0.1.1",
 			Rules: []tflint.Rule{
 				rules.NewResourceNamingRule(),
 			},
