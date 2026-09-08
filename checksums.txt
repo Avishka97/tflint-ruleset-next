@@ -1,0 +1,2 @@
+9f55bab918fd1ea581efac1dabd3cdcf6233d6d8ccf0896e0243987a784d122a  tflint-ruleset-next_linux_amd64.zip
+1004f1e6ee435d61202f71cd8f3e93c2d12ad0b83fe2f5aba5893c8034aad1f5  tflint-ruleset-next_windows_amd64.zip
